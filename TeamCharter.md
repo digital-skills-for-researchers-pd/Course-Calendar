@@ -1,49 +1,65 @@
 # Project Definition
-Digital Skills for Researchers
+Digital Skills and Scholarship for Researchers ABI
+
+Learning a variety of tools - project management, data management, version control to develop an improved scientific workflow
 
 # Vision
-Bridge gap, Shared Language, Increase understanding of software development
+
+Develop a unified understanding of how to make our scientific output reproducible.
 
 # Mission
-Learn, Practise, Collaborate, Engage, Communicate
+
+Learners work on individual projects, applying different reproducible science techniques. Learners and teachers
+share their experiences and insights.
 
 # Success Criteria
-* Use best practice in version control
-* Understand Licensing 
-* Have a working software at the end
+- Have a plan about using techniques from course post course
+- Be able to do a show and tell
+- Have a go to person (or be the go to person - should be able to teach others)
+- Be able to find resources independently 
+- Learn about the importance of reproducible science and do reproducible science
+
 
 
 # Team Agreement
 ## Behavioural Agreement
-* UoA Code of Conduct
-* Safe Discussions
-* No question is STUPID neither is the person asking it
-* Don't be offensive
-* Cursing at computers is OK, cursing at people NO
-* Slack is not for Trolling
-* Commiting three weeks of time to the course
-* Give cake when cake is due
-* Make cake in real life at least once
+* Encourage collaboration and sharing
+* Resolve conflict peacefully
+* Communicate openly
+* Be honest about the difficulties we are facing
+* Don't discriminate
+* Encourage up and coming researchers, mid and late career as well.
+* Maintain an egoless environment
+* No knowledge intimindation/shaming
+* Have upfront expectations
+* Everyone has a voice
+* Commit to learning
 ## Communication Agreement
-* We communicate thru [Slack](https://digital-skills-2017.slack.com)
-* People check Slack atleast once a day
-* Let us know when you are late/absent in [general](https://digital-skills-2017.slack.com/messages/general/) channel on Slack
+* Daily Standups
+* Groups discussions
+* Use slack/no email
+* Going to be late? tell us on slack
 
 # Project Team
-Fabiana
-Anthony
-Manish
-Neil
-Dion Henare
-Lisa Hamm
-Rashika Karunasinghe
-Shuqi Edward Wang
-Matias Kinzurik
-Diksha Sharma
-Niha Phukan
-Ali A Razzak 
-Eric Rosentreter 
-Tristan Webb
-Kishan Mistry
-Jonathan Liu 
+Fabiana, 
+Anthony, 
+Hugh,
+Andre,
+Alys,
+Prasad,
+Luca Parisi, 
+Nurul (Izza) Ismail, 
+Win Min Tun, 
+Toby Jackson, 
+Dewan Sarwar, 
+Emma Ordono, 
+Zay Yar Win, 
+Amir Rastar, 
+Vicky Wang, 
+Hari Kumar, 
+Geoff Handsfield, 
+Jason Turuwhenua, 
+Megan Guidry, 
+Jenny Kruger, 
+Amir HajiRassouliha
 

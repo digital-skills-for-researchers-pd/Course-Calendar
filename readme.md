@@ -1,22 +1,17 @@
 # Digital Skills for Researchers: Coursebook
 
-The live version of this coursebook can be viewed [here](http://digital-skills-for-researchers-pd.github.io/Course-Calendar/)
+The live version of this coursebook can be viewed [here](http://digital-skills-for-researchers-abi-2017.github.io/Course-Calendar/)
 
 
 
 ## Community
 
-You can find us on [Slack](https://digital-skills-2017.slack.com/)!
+You can find us on [Slack](https://dsfr-abi-2017.slack.com/)!
 
 Email one of the team to request an invite:
 
 - Fabiana Kubke [f.kubke@auckland.ac.nz](mailto:"f.kubke@auckland.ac.nz")
 - Anthony Jarvis [a.jarvis@auckland.ac.nz](mailto:"a.jarvis@auckland.ac.nz")
-- Manish Kukreja [mkuk073@aucklanduni.ac.nz](mailto:"mkuk073@aucklanduni.ac.nz")
-- Neil Birrell [nbir012@aucklanduni.ac.nz](mailto:"nbir012@aucklanduni.ac.nz")
-
-
-
 
 ## Contributions
 
@@ -41,4 +36,3 @@ Please keep pull requests small to help us merge your suggestions more efficient
 
 ## Attributions
 
-Logo Credit: [Crash Test Dummy](https://thenounproject.com/term/crash-test-dummy/4954/) by Luis Prado from the Noun Project
